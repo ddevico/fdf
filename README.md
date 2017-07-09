@@ -9,4 +9,4 @@ We are allowed to use the minilibx library to manipulate a window and drow in it
 ### Start the program
 
 - ```make```
-- ```./fdf maps/*.fdf
+- ```./fdf maps/*.fdf```
